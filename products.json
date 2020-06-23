@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "World Best Burger (WBB)",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images-h/product-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Double Burger Fish",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images-h/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Double Burger",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images-h/product-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Ham-Chicken",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images-h/product-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Chicken-burger",
+        "price": 8.99,
+        "image": { "fields": { "file": { "url": "./images-h/product-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Double Ham-chicken",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images-h/product-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Hamburger With Egg",
+        "price": 15.99,
+        "image": { "fields": { "file": { "url": "./images-h/product-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Fries",
+        "price": 3.99,
+        "image": { "fields": { "file": { "url": "./images-h/product-8.jpg" } } }
+      }
+    }
+  ]
+}
